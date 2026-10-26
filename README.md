@@ -1,0 +1,2 @@
+# Mini_Projeto_ThiagoALima_bussinesV4_ciclo2
+Análise Base Varejo
